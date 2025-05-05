@@ -1,0 +1,7 @@
+# .gitignore 예시
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env  # .env 파일을 버전 관리에서 제외
